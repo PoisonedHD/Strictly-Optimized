@@ -1,0 +1,12 @@
+{
+  "bbe.config.storage.main": [
+    {
+      "option": "optimize.banner",
+      "value": false
+    },
+    {
+      "option": "misc.sign_text_distance",
+      "value": 64
+    }
+  ]
+}

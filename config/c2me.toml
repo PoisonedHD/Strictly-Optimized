@@ -1,0 +1,11 @@
+version = 3
+
+	[clientSideConfig.modifyMaxVDConfig]
+		enabled = false
+		enableExtRenderDistanceProtocol = false
+
+[ioSystem]
+	gcFreeChunkSerializer = true
+
+[openclAccel]
+	allowIncompatibilityFallback = true

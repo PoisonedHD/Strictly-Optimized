@@ -11,7 +11,7 @@ enable_block_entity_renderer_caching: true
 enable_entity_flag_caching: true
 enable_remove_redundant_fov_calculations: true
 enable_remove_tutorial_if_not_demo: true
-show_f3_text: true
+show_f3_text: false
 ignore_mod_incompatibilities: false
 ignore_mod_cache_hooks: false
 log_config: true

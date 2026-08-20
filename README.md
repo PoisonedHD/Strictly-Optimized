@@ -11,6 +11,7 @@ Chances are, a specific mod might not be worth including due to any issues that 
 - [Particle Core](https://modrinth.com/mod/particle-core) - Objectively slower than [AsyncParticles](https://modrinth.com/mod/asyncparticles) and I don't see any benefit from including both.
 - [Gnetum](https://modrinth.com/mod/gnetum) - Actively reduces my frames by 7.3%.
 - [Async Logger](https://modrinth.com/mod/asynclogger) - I have yet to see any real benefit from adding it.
+- [Optimized Block Entities](https://modrinth.com/mod/obe) - Consistently runs ever so slightly slower than BBE and is a bit more visually intrusive.
 
 I don't want to include any mods that can harm performance on newer devices, but if these mods help you specifically, good for you.
 

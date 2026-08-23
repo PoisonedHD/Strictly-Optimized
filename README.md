@@ -3,7 +3,7 @@ This is a personal modpack designed to take after Simply Optimized, sharing its 
 - [Sodium](https://modrinth.com/mod/sodium) "fixes" a few "bugs" with how the game is rendered, this is somewhat mitigated by [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/mod/sodium-shadowy-path-blocks).
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities) allows block entities (duh) to be rendered from further than 64 blocks away. The only exceptions being sign text, since that's configurable, and banners, as their optimizations are disabled.
 - Sodium completely overhauls the video settings menu.
-- The F3 menu will feature some mods like Sodium (again) and [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast).
+- The F3 menu will feature some mods such as Sodium and [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast).
 - To quote [ishland](https://modrinth.com/user/ishland), "Biome borders may get shifted by one or two blocks in very rare cases due to the vanilla implementation being order-dependent."
 
 ## Why not x mod?

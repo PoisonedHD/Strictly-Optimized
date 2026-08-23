@@ -11,7 +11,7 @@ Chances are, a specific mod might not be worth including due to any issues that 
 - [Particle Core](https://modrinth.com/mod/particle-core) - Objectively slower than [AsyncParticles](https://modrinth.com/mod/asyncparticles) and I don't see any benefit from using both.
 - [Gnetum](https://modrinth.com/mod/gnetum) - Actively reduces my frames by 7.3%.
 - [Async Logger](https://modrinth.com/mod/asynclogger) - I have yet to see any real benefit from adding it.
-- [Optimized Block Entities](https://modrinth.com/mod/obe) - Consistently runs ever so slightly slower than BBE for me and is a bit more visually intrusive.
+- [Optimized Block Entities](https://modrinth.com/mod/obe) - Consistently runs ever so slightly slower than BBE for me and is a bit more visually intrusive despite what the description claims.
 
 ### Good mods that don't fit
 - [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) - Massively boosts world generation under the right circumstances, the caveat being it's incompatible with many mods and is currently experimental. 

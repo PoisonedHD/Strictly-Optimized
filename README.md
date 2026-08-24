@@ -17,3 +17,15 @@ Chances are, a specific mod might not be worth including due to any issues that 
 ### Good mods that don't fit
 - [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) - Massively boosts world generation under the right circumstances, the caveat being it's incompatible with many mods and is currently experimental. 
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - A good mod which reduces resource usage when the game isn't focused, very useful for laptops on battery or weaker devices. Doesn't fit the scope of the modpack.
+
+## Other platforms
+
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/modpacks/strictly-optimized">
+    <img src="https://cdn.modrinth.com/data/cached_images/3259d06439daa95d4bfad5b738daf545c60da5cf.png" alt="CurseForge"/>
+  </a>
+  &nbsp;
+  <a href="https://modrinth.com/modpack/strictly-optimized">
+    <img src="https://cdn.modrinth.com/data/cached_images/3cda7a49e1f99e73d342a553cce85b85bbda939d.png" alt="Modrinth"/>
+  </a>
+</p>

@@ -21,11 +21,5 @@ Chances are, a specific mod might not be worth including due to any issues that 
 ## Other platforms
 
 <p align="center">
-  <a href="https://www.curseforge.com/minecraft/modpacks/strictly-optimized">
-    <img src="https://cdn.modrinth.com/data/cached_images/3259d06439daa95d4bfad5b738daf545c60da5cf.png" alt="CurseForge"/>
-  </a>
-  &nbsp;
-  <a href="https://modrinth.com/modpack/strictly-optimized">
-    <img src="https://cdn.modrinth.com/data/cached_images/3cda7a49e1f99e73d342a553cce85b85bbda939d.png" alt="Modrinth"/>
-  </a>
+  <a href="https://www.curseforge.com/minecraft/modpacks/strictly-optimized"><img src="https://cdn.modrinth.com/data/cached_images/3259d06439daa95d4bfad5b738daf545c60da5cf.png" alt="CurseForge"/></a> <a href="https://modrinth.com/modpack/strictly-optimized"><img src="https://cdn.modrinth.com/data/cached_images/3cda7a49e1f99e73d342a553cce85b85bbda939d.png" alt="Modrinth"/></a>
 </p>

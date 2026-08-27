@@ -10,7 +10,7 @@ This is a performance modpack designed to take after Simply Optimized, sharing i
 Chances are, a specific mod might not be worth including due to any issues that may stem from doing so, such as parity or compatibility. Every mod in this modpack and the ones listed here have been benchmarked by me on a relatively high-end computer (Ryzen 7 9800x3D, 5070 Ti), and some on a crappy laptop (Intel i5-4200U, 720M).
 - [Nvidium](https://modrinth.com/mod/nvidium) - Slightly changes how the game looks and I get 4.6% less frames than with just Sodium.
 - [Particle Core](https://modrinth.com/mod/particle-core) - Objectively slower than [AsyncParticles](https://modrinth.com/mod/asyncparticles) and I don't see any benefit from using both.
-- [Gnetum](https://modrinth.com/mod/gnetum) - Actively reduces my frames by 7.3%.
+- [Gnetum](https://modrinth.com/mod/gnetum) - Actively reduces my frames by 7.3% and causes issues with a few mods.
 - [Async Logger](https://modrinth.com/mod/asynclogger) - I have yet to see any real benefit from adding it.
 - [Optimized Block Entities](https://modrinth.com/mod/obe) - Consistently runs ever so slightly slower than BBE for me and is a bit more visually intrusive despite what the description claims.
 
